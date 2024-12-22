@@ -69,10 +69,3 @@ If you use this code in your research, please cite:
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests.
-
-## Acknowledgments
-- Thanks to the medical imaging community for valuable feedback
-- Special thanks to contributors and collaborators
